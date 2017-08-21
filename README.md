@@ -1,2 +1,3 @@
-# dnn-cs-jupyter
-Lecture material on Deep Learning
+# Lecture material on Deep Learning
+@ Young-won
+
